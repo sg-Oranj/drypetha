@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sg-Oranj/drypetha/issues"
   },
-  "homepage": "https://github.com/sg-Oranj/drypetha#readme"
+  "homepage": "https://github.com/sg-Oranj/drypetha#readme",
+  "publishConfig": {
+    "@sg-Oranj:registry": "https://npm.pkg.github.com"
+  }
 }
